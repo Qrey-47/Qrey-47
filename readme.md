@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-/*- 🔭 I’m currently working on **Sample-App***/
+[//]: <> (- 🔭 I’m currently working on) **Sample-App**
 
 - 🌱 I’m exploring and learning **java, python, c, javascript, SQL, R, flask, HTML, CSS**
 
