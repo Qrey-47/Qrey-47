@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sample-App**
 
-- 🌱 I’m currently learning **java, python, c, javascript, R, flask**
+- 🌱 I’m exploring and learning **java, python, c, javascript, SQL, R, flask, HTML, CSS**
 
 - 👯 I’m looking to collaborate on **Web application development**
 
