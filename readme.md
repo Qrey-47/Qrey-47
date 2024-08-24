@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **java, python, c, javascript, R, flask**
 
-- 👯 I’m looking to collaborate on **New-App**
+- 👯 I’m looking to collaborate on **Web application development**
 
-- 🤝 I’m looking for help with **New-App**
+- 🤝 I’m looking for help with **DSA, ML implementation in python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
