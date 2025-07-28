@@ -6,7 +6,7 @@
 🤝 I’m looking for help with DSA, ML implementation in Python
 
 Connect with me:
-<p align = "center">
+<p align = "left">
   <a href = "https://www.linkedin.com/in/aditya-sharma-74adt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjV1rMIWuT4CmuoL7CxBBjQ%3D%3D">
     <img src = "https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt= "LinkedIn" width = "40" height = "40"> </a>
 </p>
